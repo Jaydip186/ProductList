@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "9F77A240-B149-498D-A5F0-BE1899A0FD87"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7AB573A9-F78A-4121-A30D-2A448FFA98E7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProductListing/ProductDetail Module/ProductDetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "getProductDetail()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7AB573A9-F78A-4121-A30D-2A448FFA98E7 - cc5e372066cdf38b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Foundation.Data, Swift.Error&gt;) -&gt; () in ProductListing.ProductDetailViewController.getProductDetail() -&gt; ()"
+                  moduleName = "ProductListing"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/moksh/Desktop/ProductListing/ProductListing/ProductDetail%20Module/ProductDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "724">
+               </Location>
+               <Location
+                  uuid = "7AB573A9-F78A-4121-A30D-2A448FFA98E7 - cc5e372066cdf38b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Foundation.Data, Swift.Error&gt;) -&gt; () in ProductListing.ProductDetailViewController.getProductDetail() -&gt; ()"
+                  moduleName = "ProductListing"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/moksh/Desktop/ProductListing/ProductListing/ProductDetail%20Module/ProductDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "496">
+               </Location>
+               <Location
+                  uuid = "7AB573A9-F78A-4121-A30D-2A448FFA98E7 - da33d8a3b802b249"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Result&lt;Foundation.Data, Swift.Error&gt;) -&gt; () in ProductListing.ProductDetailViewController.getProductDetail() -&gt; ()"
+                  moduleName = "ProductListing"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/moksh/Desktop/ProductListing/ProductListing/ProductDetail%20Module/ProductDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "160">
+               </Location>
+               <Location
+                  uuid = "7AB573A9-F78A-4121-A30D-2A448FFA98E7 - cc5e372066cdf375"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Foundation.Data, Swift.Error&gt;) -&gt; () in ProductListing.ProductDetailViewController.getProductDetail() -&gt; ()"
+                  moduleName = "ProductListing"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/moksh/Desktop/ProductListing/ProductListing/ProductDetail%20Module/ProductDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "496">
+               </Location>
+               <Location
+                  uuid = "7AB573A9-F78A-4121-A30D-2A448FFA98E7 - da33d8a3b802b173"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Result&lt;Foundation.Data, Swift.Error&gt;) -&gt; () in ProductListing.ProductDetailViewController.getProductDetail() -&gt; ()"
+                  moduleName = "ProductListing"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/moksh/Desktop/ProductListing/ProductListing/ProductDetail%20Module/ProductDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "240">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7DC940F6-9816-4E1F-A6B9-F52658F54F10"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProductListing/ProductDetail Module/ProductDetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "96"
+            endingLineNumber = "96"
+            landmarkName = "btnAddPress(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
